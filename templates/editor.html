@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="packs-center">
+        <form method="post">
+            <div class="create-form">
+                <div class="create-segment">
+                    <label for="front">Front side:</label><br>
+                    <textarea id="front" name="front" rows="12" cols="50" style="resize: none"></textarea><br>
+                    <label for="front_color">Color: </label><br>
+                    <input type="color" id="front_color" name="front_color" value="{{ front_color }}">
+                </div>
+                <div class="create-segment">
+                    <label for="back">Back side:</label><br>
+                    <textarea id="back" name="back" rows="12" cols="50" style="resize: none"></textarea><br>
+                    <label for="back_color">Color: </label><br>
+                    <input type="color" id="back_color" name="back_color" value="{{ back_color }}">
+                </div>
+                <div class="create-segment">
+                    <input type="submit" value="Add card" style="font-size: 1rem">
+                </div>
+            </div>
+        </form>
+        {% for error in errors %}
+            <p style="color: #FF0000">{{ error }}</p>
+        {% endfor %}
+        {% for success in successes %}
+            <p style="color: #00FF00">{{ success }}</p>
+        {% endfor %}
+    </div>
+{% endblock %}

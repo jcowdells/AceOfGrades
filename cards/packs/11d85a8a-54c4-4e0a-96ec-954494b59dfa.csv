@@ -1,0 +1,2 @@
+front,back,front_color,back_color,attemps,correct
+What is the circuit for a 2 bit half-adder?,"A connection from each input into an OR gate (the sum), and each input into an AND gate (the carry).",,,0,0

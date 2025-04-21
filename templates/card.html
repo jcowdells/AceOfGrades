@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div id="game-container">
+        <div id="card-container">
+            <div id="card-next">
+                Next card
+            </div>
+            <div id="card">
+                <div id="card-front">
+                    legendmixer
+                </div>
+                <div id="card-back">
+                    legendmixer
+                </div>
+            </div>
+        </div>
+        <div id="stack-container">
+            <div id="stack-correct">
+                Correct
+            </div>
+            <div id="stack-incorrect">
+                Incorrect
+            </div>
+        </div>
+    </div>
+    <script>
+        const cards_json = JSON.parse({{ cards_json|tojson|safe }});
+        const front_color = "{{ front_color|safe }}";
+        const back_color = "{{ back_color|safe }}";
+    </script>
+    <script src="/static/card.js"></script>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <form method="post" class="create-form">
+        <div class="create-segment">
+            <label for="name">Pack name:</label><br>
+            <input type="text" id="name" name="name"><br>
+            <label for="description">Pack description:</label><br>
+            <input type="text" id="description" name="description"><br>
+            <label for="front_color">Front color:</label><br>
+            <input type="color" id="front_color" name="front_color"><br>
+            <label for="back_color">Back color:</label><br>
+            <input type="color" id="back_color" name="back_color"><br>
+            <input type="submit" value="Create pack" style="font-size:1rem"><br>
+            <p>Note: you can still customise colors on each card</p>
+            {% for error in errors %}
+                <br><p style="color: #FF0000">{{ error }}</p>
+            {% endfor %}
+        </div>
+    </form>
+{% endblock %}

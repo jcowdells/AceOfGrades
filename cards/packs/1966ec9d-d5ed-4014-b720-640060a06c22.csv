@@ -1,0 +1,14 @@
+front,back,front_color,back_color,attemps,correct
+What is meant by a moment?,A moment is the turning effect of a force.,,,2,2
+What is meant by the term 'fluid'?,"A fluid is something with no rigid molecular arrangement, and so can flow. (e.g. gases and liquids).",,,2,1
+What is a couple?,"Two equal, opposite and parallel forces that act on an object through different lines of action. It has the effect of turning without translation.",,,2,0
+What is the principle of moments?,"For a body in rotational equilibrium, the sum of clockwise moments will equal the sum of anticlockwise moments.",,,2,2
+What is Archimedes' Principle?,"The upward force acting on an object submerged in fluid, is equal to the weight of fluid it displaces.",,,2,2
+What is torque?,Torque is the moment of a couple.<br>Torque = one of forces x distance between forces.,,,0,0
+How would you define 1 Newton?,1 Newton = an acceleration of 1ms-1 to an object of mass 1kg.,,,2,2
+How is drag related to speed?,Drag is proportional to the square of speed.,,,2,2
+What is the center of mass?What is the center of gravity?,The center of mass is the point through which any force applied through will not cause rotation on the object.The center of gravity is the point through which the force of weight is said to act.,,,2,1
+What practical can you use to investigate the motion of an object falling through a fluid.,"<ul><li>Fill a large measuring cylinder with a viscous liquid such as oil, glycerol or glucose syrup.</li><li>Mark the measuring cylinder at regularly spaced intervals, for example every 10cm.</li><li>Set up a slow motion camera with a time indication display, recording the measuring cylinder, ensuring that the camera is aligned properly to reduce parallax error.</li><li>Record the times at which the ball passes the marked intervals.</li><li>Plot a graph of distance against time.</li><li>You can see when the ball has reached terminal velocity, when the time interval between markings stops increasing.</li><li>You can repeat several times to get mean times for crossing, or repeat with different objects.</li></ul>",,,2,2
+What is terminal velocity?,The maximum velocity of an object that occurs when the resistive and driving forces acting on the object are equal to each other.,,,2,2
+What factors does the magnitude of a drag force depend on?,The drag force is dependent on:<ul><li>Velocity</li><li>Cross-sectional Area</li><li>Roughness</li><li>Density of fluid</li></ul>,,,2,1
+How is the moment of a force defined?,It is defined as the force multiplied by the perpendicular distance from the point of rotation to the line of action of the force.,,,2,1

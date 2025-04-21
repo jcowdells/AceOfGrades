@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="packs-center">
+        <h2><u>All cards for {{ pack_name }}</u></h2>
+        <div><br></div>
+        <div id="packs-container">
+            {% for card in cards %}
+                <div class="pack" style="background-color: {{ card["front_color"] }}">
+                    <a href="/update/{{ pack_uuid }}/{{ card["index"] }}">{{ card["front"] }}</a>
+                    <p>{{ card["back"] }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

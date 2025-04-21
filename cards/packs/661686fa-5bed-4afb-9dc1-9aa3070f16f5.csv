@@ -1,0 +1,14 @@
+front,back,front_color,back_color,attemps,correct
+What is mean drift velocity?,The average displacement per unit time of a charge carrier moving towards the positive terminal.,,,2,2
+What is the definition of a Coulomb?,The flow of charge in a time of 1 second when thecurrent is 1 ampere.,,,2,2
+How do you measure the current in a circuit?,Use an ammeter in series at the point of lowest resistance.,,,2,2
+What is the elementary charge (e)?,"The elementary charge is a quantised, fundamental unit of charge. It has a charge of 1.60e-19 coulombs.",,,2,2
+What is the number density for:<br><ul><li>Conductors</li><li>Semiconductors</li><li>Insulators</li></ul>,<ul><li>Conductors = 10e28 - 10e29<li></li>Semiconductors = 10e16 - 10e20<li></li>Insulators = << 10e10</li></ul>,,,2,2
+What is number density?,The number of charge carriers per unit volume of a material.,,,2,2
+What is Kirchoff's first law? Why is it a law?,"For any point in an electrical circuit, the sum of currents flowing into that point will equal the sum of currents flowing out of that point.<br>It is a law because of the fundamental physical property 'conservation of charge'.",,,2,1
+What is electric current?,The rate of flow of electrons.,,,2,1
+"What experiment was used to determine the value of the elementary charge, and how?","Millikan's oil drop experiment was used to determine e. Oil was sprayed as small droplets between two oppositely charged plates. The voltage was adjusted until the droplets hovered mid-air. Now, the force of weight = force of electric attraction, and can be used to calculate e.",,,2,2
+What is the charge of a proton and electron in terms of e?,<ul><li>Proton = +1e</li><li>Electron = -1e</li></ul>,,,2,2
+How can a liquid conduct electricity?,"An electrolyte can conduct electricity, as it has free moving ions in the solution that conduct charge.",,,2,2
+How does the structure of a metal allow it to carry charge?,<ul><li>A metal is a regular crystal structure / lattice of positive ions in fixed positions.</li><li>The ions are surrounded by delocalised electrons which are free to move.</li><li>The electrons are able to carry charge.</li></ul>,,,2,2
+How do you perform electrolysis?,"<ul><li>Get a container with electrolyte in it.</li><li>Positive electrode = anode</li><li>Negative electrode = cathode</li><li>Put electrodes in and create a potential difference with cell.</li><li>Cations go to cathode, anions go to anode, due to electrostatic attraction.</li></ul>",,,2,2
