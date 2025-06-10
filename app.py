@@ -2,14 +2,16 @@ from flask import Flask, render_template, request, url_for, redirect
 import json
 import os
 import uuid
+import sys
 
 from requests import get
 
 #ip = get('https://api.ipify.org').content.decode('utf8')
 
+host_address = sys.argv[2].split("=")[1]
 app = Flask(__name__)
 app.config["SECRET_KEY"] = "A_SECRET!!!!"
-app.config["SERVER_NAME"] = f"127.0.0.1:5000"
+app.config["SERVER_NAME"] = f"{host_address}:5000"
 
 
 def read_csv(filepath):

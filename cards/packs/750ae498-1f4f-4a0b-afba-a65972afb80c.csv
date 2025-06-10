@@ -1,0 +1,34 @@
+front,back,front_color,back_color,attemps,correct
+How is intensity defined?,The power emitted per unit cross sectional area.,,,2,2
+What is the amplitude of a wave?,The maximum displacement that any point on a wave reaches from the equilibrium point.,,,2,2
+"What is the order of the electromagnetic spectrum, and what are the rough wavelengths of them?",<ul><li>Radio = 10cm - 1000km</li><li>Microwave = 10cm - 1mm</li><li>Infrared = 1mm - 1μm</li><li>Visible = 700nm - 400nm</li><li>Ultraviolet = 100nm - 10nm</li><li>X-Ray = 10e-8 - 10e-10/10e-13</li><li>Gamma = 10e-10/10e-13 - 10e-16</li></ul>,,,2,2
+What is the frequency of a wave?,The number of complete oscillations that a wave makes per unit time.,,,2,1
+What is compression and rarefaction?,Compression in a longitudinal wave is where the particles that make up the wave are denser than they typically are in that medium.<br>Rarefaction is when the particles are sparser than what is typical.,,,2,2
+What is an electromagnetic wave?,An electromagnetic wave is a pair of oscillations in the electric and magnetic fields that occur perpendicular to each other.,,,2,2
+What is the period of a wave?,The time taken for a wave to complete an entire oscillation.,,,2,2
+What is refraction?,"When a wave passes through a boundary between two media and changes speed, causing a change in direction.",,,2,1
+What is a progressive wave?,A wave that transfers energy from one place to another without transferring matter.,,,2,2
+What is meant by reflection?,"When a wave meets a boundary between two media and changes its direction, remaining in the original medium.",,,2,1
+What does plane polarisation mean?,When a wave is filtered so that it only oscillates in a single plane.,,,2,2
+Whats the difference between a displacement-distance graph and a displacement-time graph for a wave?,A displacement-distance graph shows the displacements of many particles moving away from a starting point.<br>A displacement-time graph shows the displacement of a single particle at a single point as time goes on.,,,2,2
+What is phase difference?,Phase difference is measure of how far ahead or behind one wave is from another in terms of their wave cycles.,,,2,2
+How does the frequency change when a wave is refracted into a medium where the wave travels more slowly?,It doesn't change. The wavelength will reduce to accommodate entirely for the change in speed.,,,2,1
+What remains constant when a wave is reflected?,The frequency and wavelength remain constant when a wave is reflected.,,,2,1
+What is the law of reflection?,"For a reflected wave, the angle of incidence will always equal the angle of reflection, and the wave will remain in the same plane.",,,2,2
+What is the law of refraction?,n₁sinθ₁ = n₂sinθ₂,,,2,2
+Where do you measure the angle of incidence from?,From the normal to the ray.,,,2,2
+How does a fibre optic cable work?,A fibre optic cable has an inner core and an outer cladding. The cladding has a lower refractive index than the core to allow for total internal reflection to channel the light. The cladding also prevents the light from crossing between cables and causing interference.,,,2,2
+How can the refractive index of a glass block be determined?,"<ul><li>Place a semicircular glass block onto a sheet of paper with a protractor printed onto it.</li><li>Fire a ray box into the rounded edge of the glass block, pointing through parallel to the 90 degrees mark.<li><li>Mark with a pencil where the ray enters and exits the glass block.</li><li>Decrement the angle by 10 degrees, ensuring that the ray is still perpendicular to the curved surface.</li><li>Mark the rays again, and repeat for as many angles as possible before hitting the critical angle.</li><li>Remove glass block, and now measure the angles of incidence and angles of refraction.</li><li>Plot a graph of refracted angle against incident angle.</li><li>Gradient should be the refractive index (assuming refractive index of air = 1).</li></ul>",,,2,2
+What is the refractive index of a material?,The ratio between the speed of light in that material and the speed of light in a vacuum.,,,2,2
+What is diffraction?,Diffraction is the spreading out of a wave front when it passes through a gap or around an obstacle.,,,2,2
+"What does it mean for two particles to be in phase, or in antiphase?","Being in phase means that the two particles move simultaneously - always having the same displacement as each other. They have a phase difference of 2π or a multiple of it, and will be a whole wavelength apart.<br>Being out of phase means that the two particles always move in opposite directions, and have a phase difference of π or any odd number of π, and be half a wavelength apart.",,,2,2
+What is the difference between transverse and longitudinal waves?,A transverse wave has its oscillations perpendicular to the direction of energy transfer.<br>A longitudinal wave has its oscillations parallel to the direction of energy transfer.,,,2,2
+What is total internal reflection?,"When a ray reaches a boundary between two transparent media, but all of the light is reflected back into the original media, with no refraction taking place.",,,2,2
+Why do X-Rays and Gamma rays share some of the same wavelengths?,"X-Rays and Gamma rays are determined by their source, not their wavelength. X-Rays are emitted by fast-moving electrons, Gamma rays are emitted from unstable atomic nuclei.",,,2,2
+How can a longitudinal wave become polarised?,"It cannot become polarised because the oscillations already occur in a single direction, and this cannot be filtered any further.",,,2,2
+What is the wavelength of a wave?,The distance between to consecutive points that re in phase on a wave.,,,2,2
+What is the displacement of a wave?,The distance of a point on a wave from the equilibrium.,,,2,2
+What practicals can be used to show the polarisation of EM waves?,"<ul><li>Using a microwave emitter (which emits polarised microwaves) and a metal grille, you can rotate the grill in front of the receiver, and see how the intensity drops when the grille is misaligned to the plane of the microwaves.</li><li>Using a pair of polaroid filters, you can show how light will pass through when the filters are placed in the same orientation, however light is blocked when the filters are placed perpendicular.</li></ul>",,,2,2
+What conditions are required for total internal reflection to occur?,<ol><li>The light must be traveling from a high refractive index to a low refractive index material.</li><li>The light must have an angle of incidence greater than the critical angle.</li></ol>,,,2,2
+Under which conditions is diffraction most significant?,When the size of the gap is the same as the wavelength.,,,2,2
+What is the relationship between intensity and amplitude?,Intensity is proportional to the square of amplitude.,,,2,2
