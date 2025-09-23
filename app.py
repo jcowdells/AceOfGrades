@@ -11,7 +11,7 @@ from requests import get
 host_address = sys.argv[2].split("=")[1]
 app = Flask(__name__)
 app.config["SECRET_KEY"] = "A_SECRET!!!!"
-app.config["SERVER_NAME"] = f"{host_address}:5000"
+# app.config["SERVER_NAME"] = f"{host_address}:5000"
 
 
 def read_csv(filepath):
