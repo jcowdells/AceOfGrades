@@ -1,11 +1,11 @@
 front,back,front_color,back_color,attemps,correct
-How much work is done on an object on a flat horizontal plane with a force applied at a 30 degree angle above the horizontal?,"Work done is only in the direction of movement. The force in the direction of movement is Fcos30, the horizontal component. The object does not move vertically, so the vertical component does no work.",,,4,4
-A motor is used to lift a small mass at a constant rate. Describe how the kinetic energy and gravitational potential energy change as the mass is being lifted.,<ul><li>Kinetic energy remains constant.</li><li>Gravitational potential energy increases 'at a constant rate' (IMPORTANT).</li></ul>,,,2,1
-Why is work done when you lift an object off of the ground?,"Looking at equation W = Fx, object travels a certain distance above ground when a force is applied by you. Energy is transferred from kinetic to GPE.",,,4,4
-What is the definition of efficiency?,Efficiency is the ratio between the useful power output and the total power input of a system.,,,4,4
-What is kinetic energy?,The energy that an object has due to its motion.,,,4,4
-What is work done in Physics?,Work done is defined as a force applied in the direction of movement of an object.,,,4,2
-What is the principle of conservation of energy?,"In a closed system, the total input energy to the system will equal the total energy output of the system, when all forms of energy are added together.",,,4,4
-When does the equation E = mgh not work?,"For objects not in a uniform gravitational field. For example, large objects such as the moon will experience more acceleration due to gravity from the earth on the near side than the far side.",,,4,4
-What is the definition of power?,Power is the rate of transfer of energy.,,,4,3
-What is gravitational potential energy?,"The energy that an object has, as a result of its height in a gravitational field.",,,4,4
+What is gravitational potential energy?,"The energy that an object has, as a result of its height in a gravitational field.",,,5,5
+What is the principle of conservation of energy?,"In a closed system, the total input energy to the system will equal the total energy output of the system, when all forms of energy are added together.",,,5,5
+What is the definition of efficiency?,Efficiency is the ratio between the useful power output and the total power input of a system.,,,5,5
+A motor is used to lift a small mass at a constant rate. Describe how the kinetic energy and gravitational potential energy change as the mass is being lifted.,<ul><li>Kinetic energy remains constant.</li><li>Gravitational potential energy increases 'at a constant rate' (IMPORTANT).</li></ul>,,,3,2
+What is the definition of power?,Power is the rate of transfer of energy.,,,5,3
+Why is work done when you lift an object off of the ground?,"Looking at equation W = Fx, object travels a certain distance above ground when a force is applied by you. Energy is transferred from kinetic to GPE.",,,5,5
+How much work is done on an object on a flat horizontal plane with a force applied at a 30 degree angle above the horizontal?,"Work done is only in the direction of movement. The force in the direction of movement is Fcos30, the horizontal component. The object does not move vertically, so the vertical component does no work.",,,5,5
+What is work done in Physics?,Work done is defined as a force applied in the direction of movement of an object.,,,5,2
+When does the equation E = mgh not work?,"For objects not in a uniform gravitational field. For example, large objects such as the moon will experience more acceleration due to gravity from the earth on the near side than the far side.",,,5,5
+What is kinetic energy?,The energy that an object has due to its motion.,,,5,5
