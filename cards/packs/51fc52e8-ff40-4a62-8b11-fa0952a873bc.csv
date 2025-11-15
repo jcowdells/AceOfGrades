@@ -1,0 +1,17 @@
+front,back,front_color,back_color,attemps,correct
+What is the function of a capacitor?,"A capacitor's purpose is to store charge, it does so by keeping charge separated.",,,0,0
+How is a basic capacitor made?,"A basic ""parallel plate"" capacitor is made by placing two metal plates parallel to each other with a gap in between. This allows charge to build up on the plates but stops it from crossing between the plates.",,,0,0
+What is a dielectric?,"A dielectric is a material that is placed between the plates of a capacitor. It is an insulator which has a low permittivity, meaning that a larger amount of charge can be stored on either plate.",,,0,0
+How does the charge on either plate of a capacitor compare to each other?,"The magnitude of the charge on each plate will be the same, although one plate will be positive and one will be negative.",,,0,0
+How is total capacitance calculated for capacitors in parallel?,The total capacitance = The sum of each capacitor's capacitance.,,,0,0
+How is total capacitance calculated for capacitors in series?,Total capacitance = 1 / (sum of (1 / capacitances)),,,0,0
+How does the charge on each capacitor in parallel look?,"In parallel, each capacitor stores a charge that is proportional to it's capacitance, as each capacitor is receiving the same p.d.",,,0,0
+How does the charge for each capacitor look in series?,"In series, each capacitor has an equal charge stored, as it begins to act as a single (rubbish) capacitor.",,,0,0
+How can you determine the energy stored in a capacitor graphically?,Draw a graph of p.d. on y-axis and charge on x-axis. The area underneath this graph will give you the stored energy = QV/2,,,0,0
+What are the three equations for energy stored on a capacitor?,<ul><li>W = ½QV</li><li>W = ½V²C</li><li>W = ½Q²/C</li></ul>,,,0,0
+"How does the graph of charging a capacitor look like for charge, current and potential difference?","All three discharging graphs follow a similar shape of X = X0 * e^-t/CR, in other words they are exponential decay graphs.",,,0,0
+What is the time constant of a capacitor and what does it represent?,"The time constant (τ) of a capacitor is determined by the capacitance * discharging resistance = CR. The time constant represents the time taken for the charge, current or voltage of the capacitor to reduce to 1/e of its original value ≈ 0.37 * original.",,,0,0
+"How do the graphs of charge, current and potential difference look when charging a capacitor?","<ul><li>The current has an exponential decay relationship.</li><li>The charge and potential difference have a shape similar to 1 - e^-x, so starting at 0 and increasing at a reducing rate until reaching a maximum</li></ul>",,,0,0
+What variables affect the capacitance of a capacitor?,<ol><li>Distance between plates</li><li>Area of overlap between plates</li><li>Dielectric between the plates (ε)</li></ol>,,,0,0
+What is the equation for capacitance of a parallel plate capacitor?,"C = εA/d (permittivity * overlap / separation), where ε = εᵣε₀ (relative permittivity of dielectric * permittivity of free space)",,,0,0
+What is the capacitance of an isolated charged sphere?,C = 4πε₀r,,,0,0
