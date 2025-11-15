@@ -1,13 +1,13 @@
 front,back,front_color,back_color,attemps,correct
-What is Newton's first law?,"An object will remain at rest, or continue to move with a constant velocity, unless acted on by a resultant force.",,,1,1
-How do you work out the result of collisions in 2D?,"<ul><li>Resolve for momentum in x and y axes.<li><li>Momentum is conserved in all directions, so you can equate momentum in both axes before and after the collision.</li><li>Then, solve for unknowns.</li></ul>",,,1,1
-What is Newton's third law?,"For every force applied to object A by object B, there will be an equal but opposite force applied to object B by object A.",,,1,1
-What is the principle of the conservation of momentum?,"The total momentum in a closed system in any direction will always remain constant, as long as no external forces act on the system.",,,1,1
-What is Newton's second law?,"The resultant force is directly proportional to the rate of change of momentum, in some direction.",,,1,1
-How can you find the impulse from a force-time graph?,"Impulse is the area beneath a force-time graph. You could find using calculations, counting squares, or trap rule.",,,1,1
-What is linear momentum?,Linear momentum is the product of an object's mass and linear velocity.,,,1,1
-What are the different types of collisions?,<ul><li>Elastic collision - all kinetic energy is conserved.</li><li>Inelastic collision - some of the kinetic energy is lost.</li><li>Completely inelastic collision - the maximum amount of kinetic energy is lost (objects coalesce)</li><li>Superelastic collision - the kinetic energy increases due to external factors.</li></ul>,,,1,1
-How does Newton's second law lead to the existence of impulse?,Force is rate of change of momentum.<br>F = Δp/Δt<br>FΔt = Δp = impulse,,,1,1
-What is the definition of impulse?,Impulse is defined as the product of force and the duration of time that the force lasts for.,,,1,1
-What are some facts that are true for all collisions?,<ul><li>Total momentum is the same before and after.</li><li>The magnitude of the impulse / force applied to each object is the same.</li><li>The total energy in the system is conserved (when including all forms of energy).</li></ul>,,,1,1
-What are the characteristics of a pair of forces described by Newton's third law?,<ul><li>Acting with the same magnitude.</li><li>Acting in opposite directions.</li><li>Acting on different objects.</li><li>Acting as the same type of force.</li><li>Acting for the same period of time.</li></ul>,,,1,1
+How does Newton's second law lead to the existence of impulse?,Force is rate of change of momentum.<br>F = Δp/Δt<br>FΔt = Δp = impulse,,,2,1
+What is the definition of impulse?,Impulse is defined as the product of force and the duration of time that the force lasts for.,,,2,2
+How do you work out the result of collisions in 2D?,"<ul><li>Resolve for momentum in x and y axes.<li><li>Momentum is conserved in all directions, so you can equate momentum in both axes before and after the collision.</li><li>Then, solve for unknowns.</li></ul>",,,2,2
+What are the characteristics of a pair of forces described by Newton's third law?,<ul><li>Acting with the same magnitude.</li><li>Acting in opposite directions.</li><li>Acting on different objects.</li><li>Acting as the same type of force.</li><li>Acting for the same period of time.</li></ul>,,,2,1
+What are some facts that are true for all collisions?,<ul><li>Total momentum is the same before and after.</li><li>The magnitude of the impulse / force applied to each object is the same.</li><li>The total energy in the system is conserved (when including all forms of energy).</li></ul>,,,2,2
+What is Newton's third law?,"For every force applied to object A by object B, there will be an equal but opposite force applied to object B by object A.",,,2,2
+What is the principle of the conservation of momentum?,"The total momentum in a closed system in any direction will always remain constant, as long as no external forces act on the system.",,,2,1
+How can you find the impulse from a force-time graph?,"Impulse is the area beneath a force-time graph. You could find using calculations, counting squares, or trap rule.",,,2,2
+What is linear momentum?,Linear momentum is the product of an object's mass and linear velocity.,,,2,1
+What are the different types of collisions?,<ul><li>Elastic collision - all kinetic energy is conserved.</li><li>Inelastic collision - some of the kinetic energy is lost.</li><li>Completely inelastic collision - the maximum amount of kinetic energy is lost (objects coalesce)</li><li>Superelastic collision - the kinetic energy increases due to external factors.</li></ul>,,,2,1
+What is Newton's first law?,"An object will remain at rest, or continue to move with a constant velocity, unless acted on by a resultant force.",,,2,2
+What is Newton's second law?,"The resultant force is directly proportional to the rate of change of momentum, in some direction.",,,2,2
