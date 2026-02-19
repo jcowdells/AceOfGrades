@@ -1,0 +1,20 @@
+front,back,front_color,back_color,attemps,correct
+What is the value of G?,G = 6.67e-11 Nm²kg-²,,,1,1
+Kepler's Third Law?,Kepler's Third Law: The square of a planet's orbital period T is directly proportional to the cube of its average distance r from the sun.,,,1,0
+What do gravitational field lines show you?,"<ul><li>Arrows show the direction of the force that would be applied if an object were there.</li><li>Closely spaced lines show that the field is stronger, spread out lines show that it's weaker.</li></ul>",,,1,0
+How does the strength of a gravitational field produced by an object vary as you move away from the object?,"As you move away from an object, the strength of the field will decrease - it is inversely proportional to the square of your distance from the object.",,,1,0
+What must a geostationary orbit have?,<ol><li>Equatorial orbit.</li><li>Orbital period = 24 hours.</li><li>Orbit in the same direction as Earth's rotation.</li></ol>,,,1,1
+Kepler's Second Law?,Kepler's Second Law: A line segment joining a planet and the sun sweeps out equal areas during equal intervals of time.,,,1,1
+What is the equation for Kepler's Third Law?,T² = (4π²/GM)r³,,,1,1
+What is a uniform gravitational field?,A uniform gravitational field is one where the field strength and direction does not change through the field.,,,1,0
+What is the definition of gravitational field strength?,The force exerted per unit mass on a small test mass placed at that point within a gravitational field.,,,1,1
+What is the equation for gravitational field strength?,g = -(GM)/(r²)<br>The field strength should always be negative because a negative force represents an attraction.,,,1,1
+What is Newton's law of gravitation?,"Newton's law of gravitation states that the magnitude of the gravitational force between two objects is directly proportional to the product of masses of the two objects, and inversely proportional to the square of the separation between the two objects.",,,1,1
+What produces a gravitational field?,Any object with mass produces a gravitational field.,,,1,1
+Kepler's First Law?,Kepler's First Law: Planets move in elliptical orbits with the Sun at one focus.,,,1,1
+What is escape velocity?,Escape velocity is the velocity required for an object to escape a gravitational field - if all of its kinetic energy was transferred into gravitational potential energy then it would still be moving and therefore escape the field.,,,1,1
+Why is gravitational potential always negative?,"The maximum potential for an object in a field is always at infinity. Moving into the field, you lose potential because you would need to do work to oppose the force applied by the gravitational field in order to leave again. Because the potential at infinity is 0, and you always lose potential, it must always be negative because you can never be infinitely far away.",,,1,0
+What is the definition of gravitational potential energy?,The gravitational potential energy of any massive object is defined as the work done to move that object from a point at infinity into a point in a gravitational field.,,,1,0
+What are some different types of orbit?,"<ul><li>Low Earth Orbit - orbit with a small radius, short amount of time to complete a single orbit e.g. 90 minutes.</li><li>Polar Orbit - orbit that goes over the poles of the Earth, used to create maps and such.</li><li>Geostationary Orbit - orbit that stays in the same position above the Earth all the time.</li></ul>",,,1,1
+What is the definition of gravitational potential?,Gravitational potential is the work done per unit mass in bringing a small test mass from a point at infinity to a point in a gravitational field.,,,1,1
+What is the result of placing an object with mass into a gravitational field?,It will experience an attractive force proportional to its mass in the direction of the gravitational field at that point.,,,1,0

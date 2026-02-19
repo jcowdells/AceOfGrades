@@ -1,0 +1,2 @@
+front,back,front_color,back_color,attemps,correct
+Why is a relative error considered more useful than an absolute error?,"The impact of an error depends on its size relative to the number that should be represented. Relative error provides that context, absolute error does not. e.g. being 1 off from 1000000 is a tiny error, being 1 of from 0.00001 is a gigantic error, same absolute error though.",,,0,0
