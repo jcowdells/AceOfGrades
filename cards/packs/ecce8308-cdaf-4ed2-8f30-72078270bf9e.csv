@@ -1,0 +1,29 @@
+front,back,front_color,back_color,attemps,correct
+What is Brownian motion?,Bum Brownin' motion is the observed random movement of particles in a substance.,,,1,1
+What is the definition of temperature?,Temperature is a measure of hotness of an object.,,,1,1
+What is the equation of an ideal gas?,PV = nRT<br>Pressure * Volume = num moles * molar gas constant * Temperature,,,1,1
+What is meant by thermal equilibrium?,Thermal equilibrium occurs when there is no net transfer of thermal energy between objects.,,,1,1
+What is the average velocity of particles in a gas?,"Average velocity = 0ms-1, this is because all particles move randomly in every direction, so the average cancels out to zero.",,,1,1
+What is the definition of internal energy?,The internal energy of a substance is defined as the sum of the randomly distributed kinetic andpotential energies associated with the atoms or molecules which make up the substance.,,,1,1
+What is one mole?,"A mole is the amount of substance that contains the same number of elementary entities as 12g of carbon-12. For example, one mole of oxygen will weigh 16 grams, as oxygen contains 16 elementary entities.",,,1,1
+What is method of mixtures?,"Mixing two substances of known temperatures, where one of the heat capacities is known, can reveal the other heat capacity.<br>ΔE = mcΔθ<br>ΔE is the same for both substances, one gained what the other lost.<br>Therefore mcΔθ (A) = mcΔθ (B), rearrange to find the heat capacity of B.",,,1,1
+"How does kinetic energy, potential energy and internal energy change as a substance is heated from solid to gas?","<ul><li>Heating solid → kinetic energy/internal energy increases, potential energy is constant.</li><li>Melting solid → potential energy/internal energy increases, kinetic energy is constant.</li></ul><br>Repeat for liquid and gas.<br>Essentially heating = constant potential energy, changing state = constant kinetic energy, both = increased internal energy.",,,1,1
+What is the Crms speed?,"Crms = root mean squared speed. Found by squaring each speed, summing together, then averaging, then square rooting.",,,1,1
+What is the definition of specific latent heat?,Specific latent heat is the energy required to change phase per unit mass at a constant temperature.,,,1,1
+What are the five assumptions made for an ideal gas?,"<ol><li>R, Random movement of particles in all directions.</li><li>A, negligible Attraction between particles</li><li>V, Volume of particles is negligible compared to the volume of gas.</li><li>E, Elastic collisions occur between particles.</li><li>D, Duration of collisions is negligible compared to time between collisions.</li></ol>",,,1,1
+What experiment can be done to show Brownian motion and what can we learn from it?,"Experiment:<br>Fill a smoke cell with smoke and look at the soot particles under a microscope, you will see the particles moving randomly.<br>Learn:<br>Provides evidence of elastic collisions between particles.",,,1,1
+What is the definition of specific heat capacity?,The energy required to heat a unit of mass of a substance by one unit of temperature.,,,1,1
+What is Avogadro's constant?,NA = 6.02e23,,,1,1
+What forms can the ideal gas equation be rearranged into?,"PV = kNT<br>(3/2)kT = (1/2)mCrms² = kinetic energy<br>k = Boltzmann constant, N = number of particles.",,,1,1
+What are the properties of a liquid?,<ul><li>Some/medium electrostatic attraction between particles.</li><li>More kinetic energy than solids.</li><li>No regular pattern/structure.</li><li>Particles can move around each other.</li><li>Closely packed.</li><ul>,,,1,1
+What is the triple point of a substance?,The triple point is the pressure and temperature of a substance where all three states of matter exist in thermal equilibrium.,,,1,1
+What is absolute zero?,"Absolute zero is the point where all molecules in a substance stop moving, having no kinetic energy. It is the point where internal energy is at its minimum.",,,1,1
+What is molar mass?,Molar mass = mass / num moles.,,,1,1
+What is 0 Celsius in Kelvin?,273K = 0C,,,1,1
+What equation is used for specific heat capacity?,ΔE = mcΔθ,,,1,1
+How can you investigate specific heat capacity?,"<ul><li>Create an electric circuit for heating, use an ammeter and voltmeter to let you determine the power output.</li><li>Thermometer in the substance being heated. Stir liquid if using a liquid.</li><li>Record temperature over time.</li></ul>",,,1,1
+What are the properties of a solid?,<ul><li>Strong electrostatic attraction between particles.</li><li>Small amount of kinetic energy.</li><li>Arranged in a regular pattern/structure.</li><li>Particles can vibrate but not move in the structure.</li><li>Closely packed.</li><ul>,,,1,1
+How does the Maxwell-Boltzmann distribution change if temperature increases?,"The curve becomes wider and flatter, but area underneath should remain constant.",,,1,1
+"What values would you expect for the electrostatic potential of solids, liquids and gases?","<ul><li>Solid = large negative value</li><li>Liquid = negative value</li><li>Gas = 0 Joules</li></ul><br>For a solid, there is a negative potential because energy is needed to break the electrostatic bonds. By the time it is gas, there is no electrostatic bonds to break, so there is now 0 potential.",,,1,1
+What are the properties of a gas?,<ul><li>Negligible electrostatic attraction between particles.</li><li>High kinetic energy.</li><li>No regular pattern/structure.</li><li>Particles can move around each other.</li><li>Particles are sparse / far apart.</li><ul>,,,1,1
+What is the 0th law of thermodynamics?,"If two objects are in thermal equilibrium with a common third object, then those two objects must also be in thermal equilibrium with each other.",,,1,1
