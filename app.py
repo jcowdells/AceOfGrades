@@ -8,6 +8,7 @@ from requests import get
 
 #ip = get('https://api.ipify.org').content.decode('utf8')
 
+print(sys.argv)
 host_address = sys.argv[2].split("=")[1]
 app = Flask(__name__)
 app.config["SECRET_KEY"] = "A_SECRET!!!!"
